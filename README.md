@@ -8,4 +8,4 @@ To create a new branch from main
 
 - git add . to add all changes from the root folder or git add ~/some/path
 - git commit -m "someMeaningfulMessage"
-- git push --set-upstream someBranch
+- git push --set-upstream origin someBranch
